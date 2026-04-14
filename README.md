@@ -12,6 +12,7 @@
 ​AI Engine: Google Gemini API
 ​CI/CD: GitHub Actions (for secure deployment and secret injection)
 ​
+
 🔒 Security & Deployment
 ​This project is hosted on GitHub Pages. To protect the API credentials, it uses a Secret Injection workflow.
 ​The API key is never stored in the source code. Instead:
